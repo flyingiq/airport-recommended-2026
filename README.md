@@ -9,7 +9,7 @@
 - [二、全平台官方免翻客户端下载中心（国内直连 CDN 镜像）](#二全平台官方免翻客户端下载中心国内直连-cdn-镜像)
 - [三、出海必备保姆级实操指南（Gmail / Telegram / 虚拟号接码 / AI 锁区）](#三出海必备保姆级实操指南gmail--telegram--虚拟号接码--ai-锁区)
 - [四、新手 3 分钟极速配置导入教程 (Clash / 小火箭 / v2rayN)](#四新手-3-分钟极速配置导入教程-clash--小火箭--v2rayn)
-- [五、全球网络节点状态实时公开大盘](#五全球网络节点状态实时公开大盘)
+- [五、全球网络节点状态实时公开大盘与官方售后支持](#五全球网络节点状态实时公开大盘与官方售后支持)
 
 ---
 
@@ -83,10 +83,14 @@
 
 ---
 
-## 五、全球网络节点状态实时公开大盘
+## 五、全球网络节点状态实时公开大盘与官方售后支持
 
 - 📊 **18 节点实时健康与延迟看板**：[https://status.harnesscom.com](https://status.harnesscom.com)
+- 🔍 **官方 IP 纯净度与流媒体/AI 解锁自测站**：[https://ip.harnesscom.com](https://ip.harnesscom.com)
 - 📑 **腾讯文档官方大本营（全套图文长篇备忘录）**：[docs.qq.com/markdown/DWUZrT1ZFUmpPeGRO](https://docs.qq.com/markdown/DWUZrT1ZFUmpPeGRO)
+- 📧 **官方售后工单邮箱**：`contact@harnesscom.com`（**优先处理 · 官方主通道**，遇到订单、账单或节点排障问题请优先发信并注明注册邮箱/订单号）
+- 🐧 **官方新手交流 QQ 群**：`1097544138`（国内免翻直连交流群，提供新客上手答疑与节点动态通知）
+- ✈️ **官方 Telegram 客服**：[@flyingiq_bot](https://t.me/flyingiq_bot)
 
 ---
 
