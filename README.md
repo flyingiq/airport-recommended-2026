@@ -212,3 +212,17 @@
 
 ### ⚠️ 免责声明
 本项目整理与提供之所有内容、镜像与教程，仅供合法网络学术检索、开源协同开发、软件逆向学习及网络安全技术研究之用。请严格遵守您所在国家和地区的相关法律法规，切勿用于任何违反法律法规之用途。
+
+---
+
+## 🔗 相关资源
+
+| 文档 | 内容 |
+|---|---|
+| [Clash Verge Rev 完整指南](https://github.com/flyingiq/clash-verge-guide-2026) | 安装 · TUN 模式 · 分流规则 · 排错 |
+| [全平台客户端下载](https://github.com/flyingiq/v2ray-client-download-2026) | Windows / macOS / Linux / Android / iOS |
+| [节点实时状态](https://status.harnesscom.com) | 全球节点在线情况 |
+| [自营商城](https://two.harnesscom.com) | 套餐与订阅 |
+
+
+> 文档最后同步：2026-11-07
