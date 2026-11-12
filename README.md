@@ -1,6 +1,6 @@
 # 🚀 2026 最新平价稳定机场推荐与科学上网避坑指南（附全平台免翻客户端下载）
 
-> 📅 最后更新：2026-11-09 · 节点与套餐信息实时同步
+> 📅 最后更新：2026-11-12 · 节点与套餐信息实时同步
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-2026%20Active-brightgreen.svg?style=flat-square)](https://two.harnesscom.com)
@@ -77,6 +77,14 @@
 | **💎 季度版 (Quarterly)** | **300 GB / 月**<br>(每 30 天自动刷新) | 90 天 | 3 台设备 | 每月额度自动满血复活、省去频繁续费烦恼 | **¥13.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-300g-3dev-quarter) |
 | **👑 年度版 (Yearly)** | **300 GB / 月**<br>(每 30 天自动刷新) | 365 天 | 3 台设备 | 折合每月仅需 ¥3.75，性价比天花板、长期学术科研首选 | **¥45.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-300g-3dev-year) |
 
+**流量不够用？随时加购加油包，永久有效、可与任意套餐叠加：**
+
+| 加油包 | 流量 | 价格 | 折合单价 |
+| :--- | :--- | :--- | :--- |
+| 小额应急包 | 45 GB | **¥1.00** | ¥0.022/GB |
+| 标准加量包 | 100 GB | **¥2.00** | ¥0.020/GB |
+| 大额囤货包 | 160 GB | **¥3.00** | ¥0.019/GB |
+
 ### 3. 🎁 20% 永久推荐返利计划（满 5 单白得同款套餐）
 
 爱丽丝二元专线推出业内最具诚意的推广激励政策，无需囤货发货，好友付款佣金秒级到账：
@@ -106,9 +114,9 @@
 | 地区分组 | 节点标识与特点 | 支持协议 | 专享优化与落地特色 |
 | :--- | :--- | :--- | :--- |
 | 🇺🇸 **美国 (United States)** | 洛杉矶 ISP 原生 / 旧金山 / 圣何塞 / 西雅图原生 | VLESS REALITY / HY2 / 三网优选 | 原生住宅双栈 IP，ChatGPT / Claude 满血无验证码，流媒体全部识别为 US 本土 |
-| 🇭🇰 **香港 (Hong Kong)** | HKT 家宽 ISP / HYT / LL 低延迟 / 56IDC | VLESS REALITY / HY2 / 三网优选 | 物理近端超低延迟（15-35ms），B站港澳台限定、Disney+、Netflix 极速秒开 |
+| 🇭🇰 **香港 (Hong Kong)** | HKT 家宽 ISP / HYT / 56IDC / BGP 直连 | VLESS REALITY / HY2 / 三网优选 | 物理近端超低延迟（15-35ms），B站港澳台限定、Disney+、Netflix 极速秒开 |
 | 🇸🇬 **新加坡 (Singapore)** | iPraft / OCI 骨干 / TURTLE 极速集群 | VLESS REALITY / HY2 / 三网优选 | 亚太极速网络中枢，东南亚电商 Shopee / TikTok 运营首选，国际带宽充沛 |
-| 🇯🇵 **日本 (Japan)** | OCI 东京 / IIJ 优质机房 | VLESS REALITY / HY2 / 三网优选 | 晚高峰延迟稳定 45-60ms，DMM / AbemaTV / 日本动漫无障碍高清播放 |
+| 🇯🇵 **日本 (Japan)** | OCI 东京 / IIJ 优质机房 / 软银直连 | VLESS REALITY / HY2 / 三网优选 | 晚高峰延迟稳定 45-60ms，DMM / AbemaTV / 日本动漫无障碍高清播放；含 ⚡2x 软银优化直连机，跨洋回程质量更优 |
 | 🇩🇪 **德国 (Germany)** | 法兰克福欧洲骨干节点 | VLESS REALITY / HY2 / 三网优选 | 欧洲核心骨干网直连，欧洲外贸与学术资料爬取专属 |
 | 🇬🇧 **英国 (United Kingdom)** | 伦敦数据中心独立节点 | VLESS REALITY / HY2 | 欧洲核心合规网络，BBC iPlayer 原生解锁 |
 | 🇦🇺 **澳大利亚 (Australia)** | AWS 悉尼高品质节点 | VLESS REALITY / HY2 / 三网优选 | 大洋洲高速专线，澳洲留学生与外贸跨国通信专线 |
@@ -117,6 +125,21 @@
 | 🇲🇾 **马来西亚 (Malaysia)** | DeepRush 原生机房 | VLESS REALITY / HY2 / 三网优选 | 东南亚本地化业务，TikTok 东南亚小店原生网络 |
 | 🇹🇭 **泰国 (Thailand)** | 原生 IP 线路 | VLESS REALITY / HY2 / 三网优选 | 本地原生 IP 解锁，东南亚流媒体与社交媒体 |
 | 🇻🇳 **越南 (Vietnam)** | 本土家宽 ISP 原生 | VLESS REALITY / HY2 / 三网优选 | 真实本土家宽住宅 IP，针对东南亚业务高风控平台突破 |
+| 🇹🇷 **土耳其 (Türkiye)** | 欧洲/中东交界双栈节点 | VLESS REALITY / HY2 | 中东欧与土耳其本土业务专用落地，跨区电商与本地化内容访问 |
+| 🇰🇵 **朝鲜段 (KP Segment)** | 亚太中转段 · 双栈 | VLESS REALITY / HY2 | 特殊中转线路，作为跨境链路备用通道，抗封锁能力强 |
+
+### ⚡ 优化线路（2x 计费）说明
+
+除常规 1 倍线路外，另有一组**独立计费的优化线路**，节点名称统一标注 `⚡2x`：
+
+| 优化线路 | 特点 | 计费 |
+| :--- | :--- | :--- |
+| 美国⑤ · TY | 美西低延迟，跨洋回程优化 | 1GB 计 2GB |
+| 美国⑫ · US9929 | 9929 骨干，晚高峰更稳 | 1GB 计 2GB |
+| 日本⑫ · JP12 | 亚太直连优化 | 1GB 计 2GB |
+| 日本 · 软银直连 | 软银回程，游戏/聊天低延迟 | 1GB 计 2GB |
+
+> 普通线路（香港 / 日本 / 美国等）仍按 **1 倍**计费。付费套餐默认包含全部优化线路，客户端「更新订阅」即可看到；免费新客流量不含优化线路。
 
 - 📊 **24 小时实时节点大盘**：随时随地访问 [status.harnesscom.com](https://status.harnesscom.com) 查看全部节点 Ping 延迟与实时心跳。
 - 🔍 **出口纯净度检测**：随时使用官方 [ip.harnesscom.com](https://ip.harnesscom.com) 自测当前 IP 的欺诈分值与流媒体解锁状态。
