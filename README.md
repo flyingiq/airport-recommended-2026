@@ -1,20 +1,21 @@
 # 🚀 2026 最新平价稳定机场推荐与科学上网避坑指南（附全平台免翻客户端下载）
 
-> 📅 最后更新：2026-11-16 · 节点与套餐信息实时同步
+> 📅 最后更新：2026-11-16 · 节点与套餐信息实时同步 · 8 地区 80+ 线路在售
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-2026%20Active-brightgreen.svg?style=flat-square)](https://two.harnesscom.com)
-[![Global Nodes](https://img.shields.io/badge/Global%20Nodes-22%2B%20Online-blue.svg?style=flat-square)](https://status.harnesscom.com)
+[![Global Nodes](https://img.shields.io/badge/Global%20Nodes-25%20Nodes%20%7C%2080%2B%20Lines-blue.svg?style=flat-square)](https://status.harnesscom.com)
 [![Protocols](https://img.shields.io/badge/Protocols-VLESS%20REALITY%20%7C%20HY2-orange.svg?style=flat-square)](https://two.harnesscom.com)
 [![Pricing](https://img.shields.io/badge/Starting%20From-%C2%A52.00-red.svg?style=flat-square)](https://two.harnesscom.com/products/air-100g-2dev)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@alice2yuan-2CA5E0.svg?style=flat-square&logo=telegram)](https://t.me/alice2yuan)
 [![QQ Group](https://img.shields.io/badge/QQ%E7%BE%A4-1097544138-12B7F5.svg?style=flat-square&logo=tencentqq)](https://two.harnesscom.com)
+[![TG Group](https://img.shields.io/badge/TG%20%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%8A%A0%E5%85%A5-2CA5E0.svg?style=flat-square&logo=telegram)](https://t.me/+5IxXmEOGFHczY2E1)
 
 **持续更新 · 真实测速 · 原生纯净 IP · 拒绝高溢价与年付跑路陷阱**  
 专为科研学术、出海开发、跨境电商、留学生及日常流媒体 4K 追剧量身打造。  
 建议点击右上角 **`Star` 收藏**，迷路防失联 ⭐
 
-[🌐 访问爱丽丝官方自营商城](https://two.harnesscom.com) · [📊 查看全球节点实时状态](https://status.harnesscom.com) · [✈️ 加入 TG 官方频道](https://t.me/alice2yuan)
+[🌐 访问爱丽丝官方自营商城](https://two.harnesscom.com) · [📊 查看全球节点实时状态](https://status.harnesscom.com) · [✈️ 加入 TG 官方频道](https://t.me/alice2yuan) · [💬 加入 TG 交流群](https://t.me/+5IxXmEOGFHczY2E1)
 > 🎁 **新客专享｜免费领 5GB / 7 天体验流量**　无需绑卡、注册即领　→　[立即免费领取](https://two.harnesscom.com/products/air-free-5g)
 
 
@@ -43,7 +44,7 @@
 
 | 机场服务商 | 定位 / 核心特色 | 线路技术架构 | 价格门槛 | AI 与流媒体解锁 | 官网直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **🚀 爱丽丝二元专线<br>(Alice Relay)** | **¥2 元超低试错门槛 / 极致性价比首选**<br>· 零门槛免验证码 3 秒极速注册<br>· 全球 22+ 节点原生双栈出口<br>· 20% 永久推荐返利 (满5单白得一单) | **VLESS + REALITY** 原生直连<br>+ **Hysteria 2** (QUIC) 极速加速<br>+ 三网电信/联通/移动优化回源 | **¥2.00 起**<br>(100GB/30天试水体验) | ✅ **100% 完美解锁**<br>Claude 3.5/3.7、ChatGPT-4o/o1、Gemini、Netflix 4K、Disney+ | [🔗 点击直达官网](https://two.harnesscom.com/products/air-100g-2dev) |
+| **🚀 爱丽丝二元专线<br>(Alice Relay)** | **¥2 元超低试错门槛 / 极致性价比首选**<br>· 零门槛免验证码 3 秒极速注册<br>· 全球 25 台节点 · 80+ 条线路<br>· 20% 永久推荐返利 (满5单白得一单) | **VLESS + REALITY** 原生直连<br>+ **Hysteria 2** (QUIC) 极速加速<br>+ 三网电信/联通/移动优化回源 | **¥2.00 起**<br>(100GB/30天试水体验) | ✅ **100% 完美解锁**<br>Claude 3.5/3.7、ChatGPT-4o/o1、Gemini、Netflix 4K、Disney+ | [🔗 点击直达官网](https://two.harnesscom.com/products/air-100g-2dev) |
 | **TAG 机场** | 传统高端大牌 / 冷门国家节点极多 / 适合专业外贸 | 深港 IEPL 专线 / 全球多落地 | 季付 ¥185 起 | ✅ 常见 AI 与流媒体解锁良好 | 需翻墙自寻 |
 | **BoostNet** | 综合主力 / 自研一键客户端 / 体验稳定 | 三网直连 IEPL / 香港 HGC 落地 | 月付 ¥49 起 | ✅ Netflix 4K / YouTube / ChatGPT | 需翻墙自寻 |
 | **小蜜蜂** | 预算敏感型备选 / 适合多端轻度合租 | 深圳入口 深港 IEPL | 月付 ¥20 起 | ✅ 常见流媒体与基础 AI 对话 | 需翻墙自寻 |
@@ -86,7 +87,7 @@ ChatGPT、Claude 能不能稳定使用，取决于出口 IP 的欺诈分值，�
    - 彻底摒弃传统机场繁琐的手机号验证、图片滑块验证码打扰。
    - 仅需邮箱即可一键完成秒速注册，同时支持**游客快速免登下单**，支付完成后 0 延迟即刻交付专属订阅！
 2. 🌍 **全球 22+ 节点双栈直连**：
-   - 节点覆盖美国、日本、新加坡、香港、德国、英国、澳大利亚、韩国、印度、马来西亚、泰国、越南等核心区域。
+   - 节点覆盖日本、香港、新加坡、美国、英国、德国、土耳其、台湾 8 个核心区域，共 25 台物理节点、80+ 条在售线路。
    - 双引擎协议护航：**VLESS + REALITY**（抗 GFW 审查伪装）与 **Hysteria 2**（基于 UDP/QUIC 协议，晚高峰高丢包弱网环境下依然秒开 4K）。
 3. 🎯 **100% 原生纯净 IP · 攻克 AI 锁区难题**：
    - 全球出口均经过欺诈度（Fraud Score）严格清洗与原生度校准，从源头解决 Claude `App unavailable in your region` 封锁与 Cloudflare `Error 1020: Access Denied` 拦截。
@@ -100,7 +101,7 @@ ChatGPT、Claude 能不能稳定使用，取决于出口 IP 的欺诈分值，�
 
 | 套餐名称 | 流量额度 | 有效期 | 同时在线设备 | 套餐特权与服务 | 价格 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **⚡ 体验版 (Trial)** | **100 GB** | 30 天 | 2 台设备 | 全球 22+ 节点畅游、晚高峰不限速、新客首单交付送 10G 流量 | **¥2.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-100g-2dev) |
+| **⚡ 体验版 (Trial)** | **100 GB** | 30 天 | 2 台设备 | 全球 25 台节点 · 80+ 条线路、晚高峰不限速、新客首单交付送 10G 流量 | **¥2.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-100g-2dev) |
 | **🚀 标准版 (Standard)** | **300 GB** | 30 天 | 3 台设备 | 高清 4K 追剧与 AI 开发主力档、新客首单交付送 20G 流量 | **¥5.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-300g-3dev-m) |
 | **💎 季度版 (Quarterly)** | **300 GB / 月**<br>(每 30 天自动刷新) | 90 天 | 3 台设备 | 每月额度自动满血复活、省去频繁续费烦恼 | **¥13.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-300g-3dev-quarter) |
 | **👑 年度版 (Yearly)** | **300 GB / 月**<br>(每 30 天自动刷新) | 365 天 | 3 台设备 | 折合每月仅需 ¥3.75，性价比天花板、长期学术科研首选 | **¥45.00** | [🛒 立即开通](https://two.harnesscom.com/products/air-300g-3dev-year) |
@@ -128,7 +129,7 @@ ChatGPT、Claude 能不能稳定使用，取决于出口 IP 的欺诈分值，�
 
 ---
 
-## 三、全球 22+ 节点双栈基础设施与线路矩阵
+## 三、全球 25 台节点双栈基础设施与线路矩阵
 
 爱丽丝二元专线全网节点均接入了集群化健康探测系统，保障 99.9% 严苛可用率：
 
@@ -146,13 +147,9 @@ ChatGPT、Claude 能不能稳定使用，取决于出口 IP 的欺诈分值，�
 | 🇸🇬 **新加坡 (Singapore)** | iPraft / OCI 骨干 / TURTLE 极速集群 | VLESS REALITY / HY2 / 三网优选 | 亚太极速网络中枢，东南亚电商 Shopee / TikTok 运营首选，国际带宽充沛 |
 | 🇯🇵 **日本 (Japan)** | OCI 东京 / IIJ 优质机房 / 软银直连 | VLESS REALITY / HY2 / 三网优选 | 晚高峰延迟稳定 45-60ms，DMM / AbemaTV / 日本动漫无障碍高清播放；含 ⚡2x 软银优化直连机，跨洋回程质量更优 |
 | 🇩🇪 **德国 (Germany)** | 法兰克福欧洲骨干节点 | VLESS REALITY / HY2 / 三网优选 | 欧洲核心骨干网直连，欧洲外贸与学术资料爬取专属 |
+| 🇹🇷 **土耳其 (Turkey)** | 伊斯坦布尔 BGP 节点 | VLESS REALITY / HY2 | 欧亚交界低延迟出口，中东/欧洲业务跳板 |
+| 🇹🇼 **台湾 (Taiwan)** | 中华电信 HiNet 家宽 | VLESS REALITY / HY2 | 台服游戏与本土流媒体原生解锁 |
 | 🇬🇧 **英国 (United Kingdom)** | 伦敦数据中心独立节点 | VLESS REALITY / HY2 | 欧洲核心合规网络，BBC iPlayer 原生解锁 |
-| 🇦🇺 **澳大利亚 (Australia)** | AWS 悉尼高品质节点 | VLESS REALITY / HY2 / 三网优选 | 大洋洲高速专线，澳洲留学生与外贸跨国通信专线 |
-| 🇰🇷 **韩国 (South Korea)** | 春川原生 IP 专线 | VLESS REALITY / HY2 / 三网优选 | 原生韩国 IP，解锁韩服手游与本土音视频流媒体 |
-| 🇮🇳 **印度 (India)** | 海得拉巴原生节点 | VLESS REALITY / HY2 / 三网优选 | 跨国企业跨洋加速，低成本跨境业务调试通道 |
-| 🇲🇾 **马来西亚 (Malaysia)** | DeepRush 原生机房 | VLESS REALITY / HY2 / 三网优选 | 东南亚本地化业务，TikTok 东南亚小店原生网络 |
-| 🇹🇭 **泰国 (Thailand)** | 原生 IP 线路 | VLESS REALITY / HY2 / 三网优选 | 本地原生 IP 解锁，东南亚流媒体与社交媒体 |
-| 🇻🇳 **越南 (Vietnam)** | 本土家宽 ISP 原生 | VLESS REALITY / HY2 / 三网优选 | 真实本土家宽住宅 IP，针对东南亚业务高风控平台突破 |
 | 🇹🇷 **土耳其 (Türkiye)** | 欧洲/中东交界双栈节点 | VLESS REALITY / HY2 | 中东欧与土耳其本土业务专用落地，跨区电商与本地化内容访问 |
 | 🇰🇵 **朝鲜段 (KP Segment)** | 亚太中转段 · 双栈 | VLESS REALITY / HY2 | 特殊中转线路，作为跨境链路备用通道，抗封锁能力强 |
 
@@ -277,3 +274,14 @@ ChatGPT、Claude 能不能稳定使用，取决于出口 IP 的欺诈分值，�
 
 
 > 文档最后同步：2026-11-07
+
+---
+
+## 💬 遇到问题？
+
+加入官方交流群，配置问题、节点反馈、套餐咨询都能问：
+
+👉 **[https://t.me/+5IxXmEOGFHczY2E1](https://t.me/+5IxXmEOGFHczY2E1)**
+
+群里每周一上午发布节点稳定性周报，广告零容忍。
+漏单 / 退款请私聊客服 **@flyingiq_bot**（附注册邮箱 + 订单号 + 付款截图）。
