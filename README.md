@@ -1,6 +1,7 @@
 # 🚀 2026 最新平价稳定机场推荐与科学上网避坑指南（附全平台免翻客户端下载）
 
-> 📅 最后更新：2026-11-23 · 节点与套餐信息实时同步
+> 📅 最后更新：2026-11-25 · 节点与套餐信息实时同步
+> 🔧 本次维护：全站账单与收款链路完成一轮完整性巡检（心跳 / 回调 / 交付三段全部正常），节点状态页数据持续刷新。
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-2026%20Active-brightgreen.svg?style=flat-square)](https://two.harnesscom.com)
